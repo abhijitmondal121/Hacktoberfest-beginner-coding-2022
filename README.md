@@ -34,7 +34,7 @@
   <img src = "demo/s2.png" alt = "no">
 <br></br>
 ##
-  ### 3. Then go to https://github.com/Amsal1/Hacktoberfest-2021 and click on *"star"*🌟 and *"fork"*🍴.
+  ### 3. Then go to https://github.com/abhijitmondal121/Hacktoberfest-beginner-coding-2022 and click on *"star"*🌟 and *"fork"*🍴.
   <br></br>
   <img src = "demo/s3.png" alt = "no">
 <br></br>
