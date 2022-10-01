@@ -29,7 +29,7 @@
 - https://www.youtube.com/playlist?list=PLseEp7p6EwiZgLPknY4ITJxfoo75wqxph
 <br></br>
 ##
-  ### 2. Register for Hacktoberfest: Navigate to the [Hacktoberfest registration page](https://hacktoberfest.digitalocean.com/register) and follow the instructions. But, read the rules carefully before you do and then sign In using your GitHub credentials.
+  ### 2. Register for Hacktoberfest: Navigate to the [Hacktoberfest registration page](https://hacktoberfest.com/) and follow the instructions. But, read the rules carefully before you do and then sign In using your GitHub credentials.
   <br></br>
   <img src = "demo/s2.png" alt = "no">
 <br></br>
