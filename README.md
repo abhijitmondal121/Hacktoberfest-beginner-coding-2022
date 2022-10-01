@@ -1,12 +1,10 @@
-<img src = "Hacktoberfest-beginner-coding-2022/srcc/Screenshot(353).png" alt = "no">
+<img src = "demo/s1.png" alt = "no">
 
-![image]([https://user-images.githubusercontent.com/64991656/135403993-8436cfd2-5314-4c03-8509-d33e51c565b2.png](https://raw.githubusercontent.com/abhijitmondal121/Hacktoberfest-beginner-coding-2022/master/srcc/Screenshot%20(353).png))
-
-<h1 align="center"> Hacktoberfest 2021 </h1>
+<h1 align="center"> Hacktoberfest 2022 </h1>
 
 <h3 align="center">
-    <a href="https://hacktoberfest.digitalocean.com/">
-        Link To HacktoberFest 2021
+    <a href="https://hacktoberfest.com/">
+        Link To HacktoberFest 2022
     </a>
 </h3>
 
@@ -32,34 +30,42 @@
 <br></br>
 ##
   ### 2. Register for Hacktoberfest: Navigate to the [Hacktoberfest registration page](https://hacktoberfest.digitalocean.com/register) and follow the instructions. But, read the rules carefully before you do and then sign In using your GitHub credentials.
-  ![](https://i.imgur.com/4y4RoKK.png)
+  <br></br>
+  <img src = "demo/s2.png" alt = "no">
 <br></br>
 ##
   ### 3. Then go to https://github.com/Amsal1/Hacktoberfest-2021 and click on *"star"*🌟 and *"fork"*🍴.
-  ![](https://i.imgur.com/R3rQ0OX.png)
+  <br></br>
+  <img src = "demo/s3.png" alt = "no">
 <br></br>
 ##
-  ### 4. Now click on the "*Programs*" folder and click on "*new file*"📁.
-  ![](https://i.imgur.com/EpIBPhg.png)
+  ### 4. Now click on the "*Programs*" folder  and click on "*add file* and click on "*create new file*"📁.
+  <br></br>
+  <img src = "demo/s4.png" alt = "no">
 <br></br>
 ##
   ### 5. Type the name of the code with the proper extensions and then type the code⌨️ in the given area. For eg.- prime.py
-  ![](https://i.imgur.com/LQzWB6Q.png)
+  <br></br>
+  <img src = "demo/s5.png" alt = "no">
 <br></br>
 ##
   ### 6. Go to the bottom of the page and click on the "*Commit changes*"✔️ button.
-  ![](https://i.imgur.com/TFMU859.png)
+  <br></br>
+  <img src = "demo/s6.png" alt = "no">
 <br></br>
 ##
   ### 7. On the next window, click on the "*Pull Request*"✔️ button.
-  ![](https://i.imgur.com/21gW7ox.png)
+  
+  <br></br>
+  <img src = "demo/s7.png" alt = "no">
 <br></br>
 ##
   ### 8. Click on the *"Create Pull Request Button"*✔️.
-  ![](https://i.imgur.com/VOH2JUV.png)
+  <br></br>
+  <img src = "demo/s8.png" alt = "no">
   ##
   ### And again on the same button on the next window.
-  ![](https://i.imgur.com/5ozzPgm.png)
+  <img src = "demo/s9.png" alt = "no">
 <br></br>
 
 
@@ -81,11 +87,10 @@
 ## <div align="center">Note:-</div>
 
 ##### 1. Don't copy the code from anywhere on the net.
-##### 2. Codes like 'helloworld', 'sum of 2 nos.', etc won't be accepted.😔
 ##### 3. Deadline is 31st October.
 ##### 4. I will personally check each code and if I find any code not following the rules, then his/her Pull Request will be marked as invalid and it won't be counted.😥
 
-#### If you need any help, contact me at **8619027807**(WhatsApp) at any time 24*7.😊
+
 ##
 
 ## <div align="center">🤞Happy Hacking🤞</div>
