@@ -9,9 +9,6 @@ int fib(int n){
 }
 
 int main(){
-    //factorial of a number:
-    // 6!=6*5*4*3*2*1= 720
-    //n! n * (n-1)!
     int a;
     cout<<"enter a index number: "<<endl;
     cin>>a;
