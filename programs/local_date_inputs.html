@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment-with-locales.min.js" integrity="sha512-42PE0rd+wZ2hNXftlM78BSehIGzezNeQuzihiBCvUEB3CVxHvsShF86wBWwQORNxNINlBPuq7rG4WWhNiTVHFg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>    <script>
+      const defaultDateFormat = () => {
+        let localeData = moment.localeData(navigator.language);
+        return localeData['_longDateFormat'].L;
+      };
+    </script>
+  </head>
+  <body>
+    Your locale's date format is: <span id="dateFormat"></span>
+    <script>
+      document.getElementById('dateFormat').innerHTML = defaultDateFormat();
+    </script>
+  </body>
+</html>
